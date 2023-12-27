@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JavaBasics",
+            "request": "launch",
+            "mainClass": "JavaBasics",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "TryCatchDemo",
+            "request": "launch",
+            "mainClass": "TryCatchDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "CharacterDemo",
+            "request": "launch",
+            "mainClass": "CharacterDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "ByteDemo",
+            "request": "launch",
+            "mainClass": "ByteDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "StackDemo",
+            "request": "launch",
+            "mainClass": "StackDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "ListDemo",
+            "request": "launch",
+            "mainClass": "ListDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "CollectionDemo",
+            "request": "launch",
+            "mainClass": "CollectionDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "JaggedArray",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "MatrixOperations",
+            "request": "launch",
+            "mainClass": "MatrixOperations",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "ThreadDemo",
+            "request": "launch",
+            "mainClass": "ThreadDemo",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "StringOperations",
+            "request": "launch",
+            "mainClass": "StringOperations",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "HashSet",
+            "request": "launch",
+            "mainClass": "HashSet",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "JavaBasics_10ca9406"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        }
+    ]
+}

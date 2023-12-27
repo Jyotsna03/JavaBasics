@@ -10,7 +10,7 @@ public class Calculator {
         int b = sc.nextInt();
         System.out.println("enter operator ");
         char operator = sc.next().charAt(0);
-
+        
         switch(operator) {
             case '+' : System.out.println(a+b);
             break;

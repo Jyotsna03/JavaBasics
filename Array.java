@@ -4,25 +4,24 @@ public class Array {
 
     
     public static void main(String[] args) {
-        // Scanner sc = new Scanner(System.in);
-        // int size = sc.nextInt();
-        // int y = (int) 100;
+         Scanner sc = new Scanner(System.in);
+         int size = sc.nextInt();
+         int y = (int) 100;
 
-        // int numbers[] = new int[size];
+         int numbers[] = new int[size];
 
-        // for (int i=0; i<size; i++){
-        //     numbers[i] = sc.nextInt();
+         for (int i=0; i<size; i++){
+             numbers[i] = sc.nextInt();
         
-        // }
+         }
         
-        // int x = sc.nextInt();
-        // //output
-        // for(int i=0; i<size; i++) {
-        //     if(numbers[i] == x) {
-        //         System.out.println("x found at index " + i);
-        //     }
-            
-        // }
+         int x = sc.nextInt();
+        // output
+        for(int i=0; i<size; i++) {
+           if(numbers[i] == x) {
+                System.out.println("x found at index " + i);
+             }
+             }
 
         for(int i =1;i<=n;i=i*2){
             System.out.println("hello");
